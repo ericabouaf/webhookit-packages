@@ -1,0 +1,26 @@
+{
+    "name": "webhookit-http",
+    "version": "0.0.1",
+    "description": "HTTP module for WebHookIt",
+    "author": "Eric Abouaf <eric.abouaf@gmail.com>",
+    "bugs": { "web" : "http://github.com/neyric/webhookit/issues" },
+    "os": ["darwin", "linux"],
+    "contributors": [
+        "Eric Abouaf <eric.abouaf@gmail.com> (http://neyric.com)"
+    ],
+    "engines": {
+        "node" : ">=0.2.5"
+    },
+    "directories": {
+        "lib" : "./lib"
+    },
+    "main": "./lib/webhookit-http",
+    "dependencies": {
+		  "xml2js": ">=0.1.5"
+    },
+    "licenses":[  {"type" : "MIT"} ],
+    "repository": {
+        "type":"git",
+        "url":"http://github.com/neyric/webhookit.git"
+    }
+}
