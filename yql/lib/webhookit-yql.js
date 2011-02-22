@@ -6,7 +6,7 @@ exports.run = function(params, cb) {
 	
 		cb({"out": response});
 		
-	}, {}, {"https": true});
+	}, {}/*, {"https": true}*/);
 	
 };
 
