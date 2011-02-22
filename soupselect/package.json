@@ -9,7 +9,7 @@
         "Eric Abouaf <eric.abouaf@gmail.com> (http://neyric.com)"
     ],
     "engines": {
-        "node" : ">=0.2.5"
+        "node" : ">=0.4.0"
     },
     "directories": {
         "lib" : "./lib"
@@ -21,6 +21,6 @@
     "licenses":[  {"type" : "MIT"} ],
     "repository": {
         "type":"git",
-        "url":"http://github.com/neyric/webhookit.git"
+        "url":"http://github.com/neyric/webhookit-packages.git"
     }
 }

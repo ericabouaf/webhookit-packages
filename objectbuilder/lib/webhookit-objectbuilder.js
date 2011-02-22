@@ -15,12 +15,12 @@ exports.run = function(params, cb) {
 
 
 exports.definition = {
-	"name": "ObjectBuilder",
+	"name": "objectbuilder",
 	"category": "String",
 	"container": {
 		"icon": "/images/icons/add.png",
 		"xtype": "WireIt.FormContainer",
-		"title": "ObjectBuilder",
+		"title": "objectbuilder",
 		"fields": [ 
 			{
              "type": "list",

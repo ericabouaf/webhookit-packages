@@ -1,6 +1,6 @@
 {
     "name": "webhookit-ejs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "EJS templating module for WebHookIt",
     "author": "Eric Abouaf <eric.abouaf@gmail.com>",
     "bugs": { "web" : "http://github.com/neyric/webhookit/issues" },
@@ -9,18 +9,18 @@
         "Eric Abouaf <eric.abouaf@gmail.com> (http://neyric.com)"
     ],
     "engines": {
-        "node" : ">=0.2.5"
+        "node" : ">=0.4.0"
     },
     "directories": {
         "lib" : "./lib"
     },
     "main": "./lib/webhookit-ejs",
     "dependencies": {
-		  "ejs": ">=0.2.0"
+		  "ejs": ">=0.3.0"
     },
     "licenses":[  {"type" : "MIT"} ],
     "repository": {
         "type":"git",
-        "url":"http://github.com/neyric/webhookit.git"
+        "url":"http://github.com/neyric/webhookit-packages.git"
     }
 }

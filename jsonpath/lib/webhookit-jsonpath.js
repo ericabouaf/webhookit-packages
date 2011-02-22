@@ -17,7 +17,7 @@ exports.definition = {
    "container": {
 		"icon": "/images/icons/magnifier.png",
       "xtype": "WireIt.FormContainer",
-		"title": "JSONPath",
+		"title": "jsonpath",
 		"width": 180,
 		"fields": [
 			{"type": "string", "name": "path", "wirable": false, label: "Path" },

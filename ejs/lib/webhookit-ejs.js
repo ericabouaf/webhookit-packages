@@ -23,12 +23,12 @@ exports.run = function(params, cb) {
 
 
 exports.definition = {
-   "name": "template",
+   "name": "ejs",
 	"category": "Templating",
    "container": {
 		"icon": "/images/icons/script_edit.png",
       "xtype": "WireIt.TextareaContainer",
-		"title": "Liquid",
+		"title": "ejs",
 		"fields": [
 			{"type": "text", "name": "template", "wirable": false }
 		],
